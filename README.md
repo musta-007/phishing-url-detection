@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Phishing URL Detection Using Machine Learning
 
 A machine-learning cybersecurity project that detects phishing URLs using Logistic Regression and explains model predictions using SHAP. The project also explores how a Security Operations Center (SOC) can use classification thresholds to prioritize and respond to suspicious URLs.
