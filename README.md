@@ -188,10 +188,7 @@ This project is developed for educational and cybersecurity research purposes. M
 
 ## Author
 
-**YOUR NAME**
+**IMOURIG Moustapha**
 
 GitHub: [musta-007](https://github.com/musta-007)
-=======
-# phishing-url-detection
-Phishing URL detection using Logistic Regression and SHAP explainability
->>>>>>> 5dda3e1989750252d6f9469326c4c121fce02889
+
