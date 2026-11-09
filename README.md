@@ -117,7 +117,7 @@ This demonstrates a promising trade-off between model simplicity and predictive 
 phishing-url-detection/
 │
 ├── notebooks/
-│   └── phishing_url_detection.ipynb
+│   └── M115_Lab1_Template.ipynb
 │
 ├── app/
 │   └── app.py
@@ -133,7 +133,7 @@ phishing-url-detection/
 Clone the repository:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/phishing-url-detection.git
+git clone https://github.com/musta-007/phishing-url-detection.git
 cd phishing-url-detection
 ```
 
