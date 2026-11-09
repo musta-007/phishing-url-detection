@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Phishing URL Detection Using Machine Learning
 
 A machine-learning cybersecurity project that detects phishing URLs using Logistic Regression and explains model predictions using SHAP. The project also explores how a Security Operations Center (SOC) can use classification thresholds to prioritize and respond to suspicious URLs.
@@ -191,3 +192,7 @@ This project is developed for educational and cybersecurity research purposes. M
 **YOUR NAME**
 
 GitHub: [musta-007](https://github.com/musta-007)
+=======
+# phishing-url-detection
+Phishing URL detection using Logistic Regression and SHAP explainability
+>>>>>>> 5dda3e1989750252d6f9469326c4c121fce02889
